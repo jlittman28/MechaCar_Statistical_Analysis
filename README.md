@@ -37,13 +37,13 @@ P-Values/Sample Mean - assumes a p-value of 0.05 is significant
 
 ## Study Design: MechaCar vs Competition
   1. What metric or metrics are you going to test?
-    * Cost, city and highway fuel efficiency, safety feature rating, Engine Type (Electric, Hybrid, Gas)
+  // Cost, city and highway fuel efficiency, safety feature rating, Engine Type (Electric, Hybrid, Gas)
   2. What is the null hypothesis or alternative hypothesis
-    * Null Hypothesis: If p-value is greater than 0.05, then MechaCar is statistically similar in performance with the respective categoreis.
+  // Null Hypothesis: If p-value is greater than 0.05, then MechaCar is statistically similar in performance with the respective categoreis.
   3. What statistical test would you use to test the hypothesis? And why?
-    * We would use multiple linear regression to identify which metric significantly correlates with the respective companies bottom line.
+  // We would use multiple linear regression to identify which metric significantly correlates with the respective companies bottom line.
   4. What data is needed to run the statistical test?
-    * Would leverage Statista.com to identify competitors comparable models, those companies that are comparable in size by production output and revenue (output * sales price)
+  // Would leverage Statista.com to identify competitors comparable models, those companies that are comparable in size by production output and revenue (output * sales price)
 
 
 
